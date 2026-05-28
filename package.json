@@ -1,0 +1,10 @@
+{
+  "name": "edurisk-monorepo",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "npm --prefix backend start"
+  }
+}
